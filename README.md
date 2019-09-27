@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ### Tutorial
 
-A detailed example is provided in the Jupyter Notebook `Example.ipnyb`.
+A detailed example is provided in the Jupyter Notebook `Example.ipynb`.
 
 
 Here is a short example on how to use the library to simulate Brownian motion :
